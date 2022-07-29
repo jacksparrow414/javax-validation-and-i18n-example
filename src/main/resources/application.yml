@@ -1,0 +1,4 @@
+server:
+  port: 18787
+  servlet:
+    context-path: /valid
